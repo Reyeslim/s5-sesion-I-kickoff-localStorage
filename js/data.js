@@ -1,4 +1,4 @@
-const productosIniciales = [
+export const productosIniciales = [
   {
     id: 1,
     nombre: "Laptop Gaming MSI",
